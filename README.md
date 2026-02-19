@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Olá,%20sou%20o%20Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=20&descColor=auto&descAlignY=60" alt="Banner de Boas-Vindas do Gustavo Henrique" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff,00d4ff&height=280&section=header&text=Olá,%20sou%20o%20Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=20&descColor=ffffff&descAlignY=60" alt="Banner do Gustavo" />
 </p>
 <div align="center">
   <h1>Sejam Bem Vindos</h1>
@@ -70,5 +70,5 @@ Interface interativa construída para explorar o mundo Pokémon. Desenvolvida co
 <br></br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Até%20Mais,%20Obrigado%20Pela%20Visita%20💫&fontSize=30&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=81a1c1,b48ead&height=200&section=footer&text=Até%20Mais,%20Obrigado%20Pela%20Visita%20💫&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Rodapé do Gustavo" />
 </p>
