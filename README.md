@@ -28,6 +28,7 @@
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-H3nrique&show_icons=true&theme=dracula" border="0" />
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-H3nrique&layout=compact&theme=dracula" border="0" />
 </p>
+
 ---
 
 ### 📫 Vamos nos conectar?
@@ -35,8 +36,8 @@
   <a href="https://www.linkedin.com/in/gustavoh3nrique/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:Gustavomsn.cs@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail" />
+  <a href="mailto:Gustavomsn.cs@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-Gustavomsn.cs%40hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
  </a>
 </div>
 
