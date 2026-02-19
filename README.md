@@ -45,4 +45,4 @@
 
 ### 🌟 Meus Principais Projetos
 1. 🔗 [DevLink-Site](https://github.com/Gustavo-H3nrique/DevLink-Site) - Um agregador de links dinâmico.
-2. 🐲 [Pokedex](https://github.com/Gustavo-H3nrique/Pokedex) - (Em breve) Explore o mundo Pokémon!
+2. 🐲 [Pokedex](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static) - (Em breve) Explore o mundo Pokémon!
