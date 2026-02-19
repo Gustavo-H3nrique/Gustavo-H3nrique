@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Olá,%20sou%20o%20Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=20&descColor=ffffff&descAlignY=60" alt="Banner do Gustavo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=280&section=header&text=Olá,%20sou%20o%20Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=20&descColor=ffffff&descAlignY=60" />
 </p>
 <div align="center">
   <h1>Sejam Bem Vindos</h1>
@@ -35,10 +35,18 @@
 <div align="center">
   <h1>📊 Estatísticas do GitHub</h1>
 </div>
-<p align="left">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-H3nrique&show_icons=true&theme=dracula" border="0" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-H3nrique&layout=compact&theme=dracula" border="0" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-H3nrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-H3nrique&layout=compact&theme=dracula&hide_title=false" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br></br>
 <div align="center">
@@ -70,5 +78,5 @@ Interface interativa construída para explorar o mundo Pokémon. Desenvolvida co
 <br></br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Até%20Mais,%20Obrigado%20Pela%20Visita%20💫&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Rodapé do Gustavo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=200&section=footer&text=Até%20Mais,%20Obrigado%20Pela%20Visita%20💫&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Rodapé do Gustavo" />
 </p>
