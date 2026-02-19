@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Olá,%20sou%20o%20Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%20%20%23&descSize=20&descColor=auto&descAlignY=60" alt="Banner de Boas-Vindas do Gustavo Henrique" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Olá,%20sou%20o%20Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=20&descColor=auto&descAlignY=60" alt="Banner de Boas-Vindas do Gustavo Henrique" />
 </p>
 <div align="center">
   <h1>Sejam Bem Vindos</h1>
@@ -8,6 +8,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20única%20maneira%20de%20fazer%20um%20excelente%20trabalho%20é%20amar%20o%20que%20você%20faz.&author=Steve%20Jobs" alt="Frase do dia" />
 </p>
+
+<br></br>
 
 <div align="center">
   <h1>🚀 Sobre mim</h1>
@@ -64,3 +66,9 @@ Aplicação Front-End desenvolvida com **React** e **JavaScript**, focada em cri
 Interface interativa construída para explorar o mundo Pokémon. Desenvolvida com **HTML**, **CSS** e **JavaScript**, a aplicação consome dados de API para exibir informações detalhadas e GIFs de forma fluida e estática.
 
 🔗 [Ver projeto](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static)
+
+<br></br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Até%20Mais,%20Obrigado%20Pela%20Visita%20💫&fontSize=30&animation=fadeIn&fontAlignY=70" />
+</p>
