@@ -24,10 +24,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gustavo-H3nrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-H3nrique&layout=compact&theme=dracula&langs_count=62" />
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-H3nrique&theme=dracula" />
 
 ---
 
