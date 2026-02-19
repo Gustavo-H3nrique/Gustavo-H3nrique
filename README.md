@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=280&section=header&text=Olá,%20sou%20o%20Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=20&descColor=ffffff&descAlignY=60" />
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Transformando+ideias+em+código;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Sejam%C2%A0%C2%A0Bem-Vindos!" />
 </p>
-
+<br></br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20única%20maneira%20de%20fazer%20um%20excelente%20trabalho%20é%20amar%20o%20que%20você%20faz.&author=Steve%20Jobs" alt="Frase do dia" />
 </p>
