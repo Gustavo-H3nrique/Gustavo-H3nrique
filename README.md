@@ -49,15 +49,6 @@
 </div>
 
 <br></br>
-<div align="center">
-  <h1>📫 Vamos nos conectar?</h1>
-</div>
-
-| Rede Social | Contato Direto |
-| :--- | :--- |
-| **LinkedIn** | [in/gustavoh3nrique](https://www.linkedin.com/in/gustavoh3nrique/) |
-| **E-mail** | `Gustavomsn.cs@hotmail.com` |
-
 <br></br>
 <div align="center">
   <h1>🌟 Meus Principais Projetos</h1>
@@ -74,6 +65,17 @@ Aplicação Front-End desenvolvida com **React** e **JavaScript**, focada em cri
 Interface interativa construída para explorar o mundo Pokémon. Desenvolvida com **HTML**, **CSS** e **JavaScript**, a aplicação consome dados de API para exibir informações detalhadas e GIFs de forma fluida e estática.
 
 🔗 [Ver projeto](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static)
+
+<br></br>
+
+<div align="center">
+  <h1>📫 Vamos nos conectar?</h1>
+</div>
+
+| Rede Social | Contato Direto |
+| :--- | :--- |
+| **LinkedIn** | [in/gustavoh3nrique](https://www.linkedin.com/in/gustavoh3nrique/) |
+| **E-mail** | `Gustavomsn.cs@hotmail.com` |
 
 <br></br>
 
