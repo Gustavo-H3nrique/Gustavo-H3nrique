@@ -24,8 +24,10 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-H3nrique&theme=dracula" />
-
+<p align="left">
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-H3nrique&show_icons=true&theme=dracula" border="0" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-H3nrique&layout=compact&theme=dracula" border="0" />
+</p>
 ---
 
 ### 📫 Vamos nos conectar?
