@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Olá,%20sou%20o%20Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%20%20%23&descSize=20&descColor=auto&descAlignY=60" alt="Banner de Boas-Vindas do Gustavo Henrique" />
+</p>
 <div align="center">
-  <h1>Olá, Sejam Bem Vindos</h1>
-  <h2>Sou o Gustavo Henrique 👋</h2>
+  <h1>Sejam Bem Vindos</h1>
 </div>
 
 <p align="center">
