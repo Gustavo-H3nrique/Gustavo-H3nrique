@@ -1,5 +1,7 @@
-# Olá, Sejam Bem Vindos<br>
-# Sou o Gustavo Henrique 👋
+<div align="center">
+  <h1>Olá, Sejam Bem Vindos</h1>
+  <h2>Sou o Gustavo Henrique 👋</h2>
+</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20única%20maneira%20de%20fazer%20um%20excelente%20trabalho%20é%20amar%20o%20que%20você%20faz.&author=Steve%20Jobs" alt="Frase do dia" />
