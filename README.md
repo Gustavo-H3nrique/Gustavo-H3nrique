@@ -52,5 +52,11 @@
 <div align="center">
   <h1>🌟 Meus Principais Projetos</h1>
 </div>
-1. 🔗 [DevLink-Site](https://github.com/Gustavo-H3nrique/DevLink-Site) - Um agregador de links dinâmico.<br>
-2. 🐲 [Pokedex](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static) - Interface para listagem de Pokémon com consumo de API.
+
+1. ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  **DevLink-Site**
+   > Um agregador de links dinâmico para estruturar seus links.
+   🔗 [Clique aqui para acessar](https://github.com/Gustavo-H3nrique/DevLink-Site)
+
+2. **Pokedex** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+   > Interface consumindo API para retornar valores de busca.
+   🔗 [Clique aqui para acessar](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static)
