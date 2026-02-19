@@ -6,9 +6,9 @@
 
 ### 🚀 Sobre mim
 - 👨‍💻 Desenvolvedor focado em criar soluções modernas e eficientes.
-- 🎓 Atualmente estudando **JS**,**HTML**,**CSS**,**REACT** e focado em melhorar minhas habilidades Back-End e Front-End.
+- 🎓 Atualmente estudando **JS**, **HTML**, **CSS**, **REACT** e focado em melhorar minhas habilidades Back-End e Front-End.
 - 🎯 Objetivo: Me tornar um desenvolvedor Full Stack e contribuir para projetos de código aberto.
-- ⚡ Paralelo: Estudando Cibersegurança e Inteligencia Arificial 😄
+- ⚡ Paralelo: Estudando Cibersegurança e Inteligência Artificial 😄
 
 ---
 
@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
@@ -36,7 +37,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Gustavomsn.cs@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail" />
   </a>
 </div>
 
