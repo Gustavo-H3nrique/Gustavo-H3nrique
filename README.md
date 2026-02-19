@@ -23,12 +23,20 @@
 <br></br>
 <div align="center">
   <h1>🛠 Minhas Tecnologias</h1>
-</div>
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-|  |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
-| <img src="https://skillicons.dev/icons?i=js" /> | <img src="https://skillicons.dev/icons?i=nodejs" /> | <img src="https://skillicons.dev/icons?i=html" /> | <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=css" /> | <img src="https://skillicons.dev/icons?i=git" /> |
+  <br></br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,react,css,git" />
+  </a>
+</div>
 
 <br></br>
 <br></br>
@@ -72,7 +80,9 @@ Interface interativa construída para explorar o mundo Pokémon. Desenvolvida co
   <h1>📫 Vamos nos conectar?</h1>
 </div>
 
-| Rede Social | Contato Direto |
+<br></br>
+
+| Rede Social | Contato / Mensagem |
 | :--- | :--- |
 | **LinkedIn** | [in/gustavoh3nrique](https://www.linkedin.com/in/gustavoh3nrique/) |
 | **E-mail** | `Gustavomsn.cs@hotmail.com` |
