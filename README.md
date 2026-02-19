@@ -15,6 +15,8 @@
   <h1>🚀 Sobre mim</h1>
 </div>
 
+<br></br>
+
 - 👨‍💻 Desenvolvedor focado em criar soluções modernas e eficientes.
 - 🎓 Atualmente estudando **JS**, **HTML**, **CSS**, **REACT** e focado em melhorar minhas habilidades de Back-End e Front-End.
 - 🎯 Objetivo: Me tornar um desenvolvedor Full Stack e contribuir para projetos de código aberto.
