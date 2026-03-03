@@ -64,24 +64,24 @@
   <h1>🌟 Meus Principais Projetos</h1>
 </div>
 
-### ⚔️ [Dota 2 - Catálogo de Heróis](https://github.com/Gustavo-H3nrique/Dota-2---Site-Build)
-Exploração interativa do universo de **Dota 2**. Desenvolvido com **HTML**, **CSS** e **JavaScript**, o projeto apresenta uma interface dinâmica para navegar entre heróis, com foco em rotas internas e organização de arquivos front-end.
+### ⚔️ [Dota 2 - Build's de Heróis](https://github.com/Gustavo-H3nrique/Dota-2---Site-Build)
+Catalogo interativo do universo de **Dota 2** para buscar builds mais utilizadas. Desenvolvido com **HTML**, **CSS**,**API's** e **JavaScript**, o projeto apresenta uma interface dinâmica para navegar entre heróis, com foco em rotas internas e organização de arquivos back-end e front-end.
 
-🔗 [Acessar o Site](https://gustavo-h3nrique.github.io/Dota-2---Site-Build/) | 💻 [Ver Código](https://github.com/Gustavo-H3nrique/Dota-2---Site-Build)
+🔗 [Acessar o Site](https://gustavo-h3nrique.github.io/Dota-2---Site-Build/) | 💻 [Ver Projeto](https://github.com/Gustavo-H3nrique/Dota-2---Site-Build)
 
 <br>
 
 ### 🔗 [DevLink-Site](https://github.com/Gustavo-H3nrique/DevLink-Site)
 Aplicação Front-End desenvolvida com **React** e **JavaScript**, focada em criar um agregador de links dinâmico e personalizado. O projeto apresenta uma interface moderna, responsiva e otimizada para dispositivos móveis.
 
-🔗 [Ver projeto](https://github.com/Gustavo-H3nrique/DevLink-Site)
+🔗 [Acessar o Site](https://github.com/Gustavo-H3nrique/DevLink-Site) | 💻 [Ver Projeto]().
 
 <br>
 
 ### 🐲 [Pokedex](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static)
 Interface interativa construída para explorar o mundo Pokémon. Desenvolvida com **HTML**, **CSS** e **JavaScript**, a aplicação consome dados de API para exibir informações detalhadas e GIFs de forma fluida e estática.
 
-🔗 [Ver projeto](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static)
+🔗 [Acessar o Site](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static) | 💻 [Ver Projeto]().
 
 <br></br>
 
