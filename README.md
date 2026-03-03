@@ -81,7 +81,7 @@ Aplicação Front-End desenvolvida com **React** e **JavaScript**, focada em cri
 ### 🐲 [Pokedex](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static)
 Interface interativa construída para explorar o mundo Pokémon. Desenvolvida com **HTML**, **CSS** e **JavaScript**, a aplicação consome dados de API para exibir informações detalhadas e GIFs de forma fluida e estática.
 
-🔗 [Acessar o Site](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static) | 💻 [Ver Projeto]().
+🔗 [Acessar o Site](https://gustavo-h3nrique.github.io/Pokedex-GIF-Static/) | 💻 [Ver Projeto](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static).
 
 <br></br>
 
