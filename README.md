@@ -64,6 +64,13 @@
   <h1>🌟 Meus Principais Projetos</h1>
 </div>
 
+### ⚔️ [Dota 2 - Catálogo de Heróis](https://github.com/Gustavo-H3nrique/Dota-2---Site-Build)
+Exploração interativa do universo de **Dota 2**. Desenvolvido com **HTML**, **CSS** e **JavaScript**, o projeto apresenta uma interface dinâmica para navegar entre heróis, com foco em rotas internas e organização de arquivos front-end.
+
+🔗 [Acessar o Site](https://gustavo-h3nrique.github.io/Dota-2---Site-Build/) | 💻 [Ver Código](https://github.com/Gustavo-H3nrique/Dota-2---Site-Build)
+
+<br>
+
 ### 🔗 [DevLink-Site](https://github.com/Gustavo-H3nrique/DevLink-Site)
 Aplicação Front-End desenvolvida com **React** e **JavaScript**, focada em criar um agregador de links dinâmico e personalizado. O projeto apresenta uma interface moderna, responsiva e otimizada para dispositivos móveis.
 
