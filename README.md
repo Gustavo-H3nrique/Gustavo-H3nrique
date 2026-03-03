@@ -71,7 +71,7 @@ Catalogo interativo do universo de **Dota 2** para buscar builds mais utilizadas
 
 <br>
 
-### 🔗 [DevLink-Site](https://github.com/Gustavo-H3nrique/DevLink-Site)
+### 📸 [DevLink-Site](https://github.com/Gustavo-H3nrique/DevLink-Site)
 Aplicação Front-End desenvolvida com **React** e **JavaScript**, focada em criar um agregador de links dinâmico e personalizado. O projeto apresenta uma interface moderna, responsiva e otimizada para dispositivos móveis.
 
 🔗 [Acessar o Site](https://gustavo-h3nrique.github.io/DevLink-Site/) | 💻 [Ver Projeto](https://github.com/Gustavo-H3nrique/DevLink-Site).
