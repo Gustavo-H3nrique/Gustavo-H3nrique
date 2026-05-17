@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=280&section=header&text=Olá,%20sou%20o%20Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=20&descColor=ffffff&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=280&section=header&text=Olá,%20sou%20o%20Gustavo%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20|%20Cibersegurança%20&descSize=20&descColor=ffffff&descAlignY=60" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Sejam%C2%A0%C2%A0Bem-Vindos!" />
@@ -17,26 +17,27 @@
 
 <br></br>
 
-- 👨‍💻 Desenvolvedor focado em criar soluções modernas e eficientes.
-- 🎓 Atualmente estudando **JS**, **HTML**, **CSS**, **REACT** e focado em melhorar minhas habilidades de Back-End e Front-End.
-- 🎯 Objetivo: Me tornar um desenvolvedor Full Stack e contribuir para projetos de código aberto.
-- ⚡ Paralelo: Estudando TypeScript, Cibersegurança e Inteligência Artificial 😄
+- 👨‍💻 Desenvolvedor focado em criar soluções modernas, eficientes e com segurança.
+- 🎓 Estudando: **JAVA**, **PYTHON**, **JAVASCRIPT**, **CIBERSEGURANÇA** e melhorando minhas habilidades de Back-End, Front-End e IA.
+- 🎯 Objetivo: Me tornar um desenvolvedor com conhecimento em cibersegurança e contribuir para projetos de código aberto.
+- ⚡ Paralelo: Estudando TypeScript, Frameworks atuais e ferramentas de Blue | Red team. 😄
 <br></br>
 <br></br>
 <div align="center">
   <h1>🛠 Minhas Tecnologias</h1>
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Cybersecurity-9A3412?style=for-the-badge&logo=cyberdefenders&logoColor=white" />
 
   <br></br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,react,css,git" />
+    <img src="https://skillicons.dev/icons?i=js,java,html,css,git,python,kali," />
   </a>
 </div>
 
